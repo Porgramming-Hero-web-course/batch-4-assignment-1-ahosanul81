@@ -110,10 +110,6 @@
     updateProfile(myProfile, { age: 29 })
 
 
-
-
-
-
     class Car {
         constructor(public make: string, public model: string, public year: number,
         ) { }
